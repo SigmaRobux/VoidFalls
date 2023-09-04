@@ -1,3 +1,4 @@
+--hi chat
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
 local Window = Library.CreateLib("Void Falls games", "Synapse")
 local Tab = Window:NewTab("Main")
